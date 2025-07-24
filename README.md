@@ -104,12 +104,3 @@ If you found this project helpful, **give it a star** ⭐ and share it!
 
 ```
 
----
-
-Would you like:
-- A matching **15-second demo video** preview block?
-- A `requirements.txt` for easy setup?
-- A section for model performance/metrics?
-
-I can add those for you!
-```
